@@ -15,7 +15,3 @@ npm install @craco/craco --save
 npm start
 ```
 
-```
-
-Let me know if you'd like to include how to install other dependencies or run a build.
-```
